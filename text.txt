@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 On master branch.
+=======
+On develop branch.
+>>>>>>> develop
